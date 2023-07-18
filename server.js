@@ -277,8 +277,7 @@ function isLoggedIn(req, res, next) {
 }
 
 
-
-// AdminDetails.register({ username: 'admin', active: false }, '123');
+AdminDetails.register({ username: 'admin', active: false }, '123');
 
 
 
